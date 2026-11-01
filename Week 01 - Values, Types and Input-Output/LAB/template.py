@@ -35,7 +35,6 @@ print(f"Total : {gb_total:>10.2f}")
 print(f"Free : {gb_free:>+10.2f}")
 print(f" Percent : {percent_used:>10.2f} %")
 print(f"Free % : {percent_free:>10.2f} %")
-
 print("=" * 34)
 
 
